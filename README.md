@@ -28,9 +28,9 @@ What we are looking for are the following.
 
     `source bin/activate`
 
-    extract zip content in this folder here, `ik_backend` folder from zip file should be extracted here
+    extract zip content in this folder here, `mock-interview-booking-master` folder from zip file should be extracted here
 
-    `cd ik_backend`
+    `cd mock-interview-booking-master`
 
     `pip install -r requirements.txt`
 
@@ -45,7 +45,7 @@ What we are looking for are the following.
 
     `source bin/activate`
 
-    `cd ik_backend`
+    `cd mock-interview-booking-master`
 
     `python tests.py`
 
